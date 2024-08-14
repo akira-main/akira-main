@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I'm Akira, a Senior Software Developer and the founder of **Akira Solutions**. I specialize in creating high-ticket, custom software solutions for clients using a wide range of technologies. My expertise includes:
+I'm Akira, a Senior Software Developer and the founder of **Akira Solutions**. I specialize in creating high-value, custom software solutions for clients using a wide range of technologies. My expertise includes:
 
 - **Frontend:** React.js, React Native, Expo, Next.js
-- **Backend:** Node.js, Nest, Prisma, Spring Boot, ASP.NET Core
-- **Languages:** Java, Kotlin, C#, Python
+- **Backend:** Node.js, Nest, Prisma, Spring Boot, ASP.NET Core, Express
+- **Languages:** Javascript, Typescript, Java, Kotlin, C#, Python
 - **Databases:** PostgreSQL, MongoDB, SQL Server
 
 I'm passionate about pushing the boundaries of software development and achieving a symbiotic relationship with AI to enhance creativity and productivity.
