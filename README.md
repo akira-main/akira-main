@@ -1,8 +1,8 @@
 # Welcome to Akira Solutions 🌟
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AkiraSolutions&style=flat-square&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/AkiraSolutions?style=social)](https://github.com/AkiraSolutions?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AkiraSolutions?style=social)](https://twitter.com/AkiraSolutions)
+![Visitor Count](https://komarev.com/ghpvc/?username=akira-main&style=flat-square&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/akira-main?style=social)](https://github.com/akira-main?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akira-main?style=social)](https://twitter.com/akira.dev)
 
 ## 🚀 About Me
 
