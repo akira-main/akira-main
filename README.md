@@ -41,12 +41,12 @@ At Akira Solutions, we offer bespoke software solutions tailored to meet the uni
 
 ## 📊 GitHub Stats
 
-![Akira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joneakira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneakira&layout=compact&theme=radical)
+![Akira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akira-main&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akira-main&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joneakira&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akira-main&theme=radical)
 
 ---
 
